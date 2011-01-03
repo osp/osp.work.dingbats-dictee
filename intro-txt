@@ -1,0 +1,55 @@
+what is unicode?
+
+Unicode is an industrial consortium which aimed at developing a standard allowing representation and use of texts from most of the world writing systems.
+
+The Unicode Consortium is *a non-profit organization.*Its members are corporations, organizations and companies in the computer and information processing industry like Adobe, Apple, IBM, Microsoft, Monotype, Linotype, Nokia, etc.
+
+“Unicode provides a unique number for every character,
+no matter what the platform,
+no matter what the program,
+no matter what the language.”
+http://www.unicode.org/standard/WhatIsUnicode.html
+ 
+Unicode standard versions are compatibles and synchronised with the international standard ISO/IEC 10646 (Universal Character Set).
+
+The last version, number 6.0.0, gathers more than 109 000 characters covering 93 different writing systems.
+The Unicode project began at the end of the eighties. The first edition dates from 1991.
+
+
+
+Dingbats ou Casseau
+
+2700 > 27bf
+
+Le bloc Dingbats ou Casseau comprend des symboles iconographiques et ornementaux.
+Une partie reprend les caractères de la fonte Zapf dingbats, 
+dessinée par Herman Zapf en 1978 et publiée chez ITC 
+(International Typeface Corporation).
+Parmi les fontes d'Herman vous connaissez sans doute Optima, Palatino ou Zapfino. 
+
+
+Miscellaneous symbols
+
+2600 > 26FF
+
+Un bric à brac de symboles divers et variés: météorologiques, astrologiques, de téléphone, de pause café, de fleuron aldin, de tête de mort, de radioactivité, de diverses religions, de divers systèmes politiques, le symbole de la paix et celui du tao, les trigrammes du Yi King, les smilies, les planètes, les constellations, les échecs, les cartes, les notes, les symboles de recyclage, de dés, de haut voltage, etc.
+
+(Fontes et codages, Yannis Haralambous)
+
+Les symboles de 26C4 à 26FF + 26BD -BE -BF et 269E -9F (en jaune sur la planche Unicode) ont été ajoutés à la version 5.2.0 du standard, publiée en octobre 2009.
+☝
+
+- - - la main
+index blanc inant vers la droite
+
+
+- - - coeur floral couché à droite
+> le plus vieux des fleurons
+
+ciseaux à lame supérieure visible
+
+main de la victoire
+
+
+
+
